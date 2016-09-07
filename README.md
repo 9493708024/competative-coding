@@ -1,5 +1,5 @@
 # competative-coding
-All the codes that i wrote while participating in coding contests or practice.
+Repo to store all the codes while participating in online coding contest or practice
 
 My default code for a cpp program may be useful.
 
