@@ -89,7 +89,7 @@ inline void ins(std::string &str)
 
 //------------------FASTER OUTPUT FUNCTIONS-----------------//
 
-char sp;
+char sp='\n';
 
 inline  void outi (int n){
     register int x = n;
